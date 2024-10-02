@@ -33,7 +33,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6.*',
+    python_requires='>=3.6',
     zip_safe=False,
     include_package_data=True,
     project_urls={

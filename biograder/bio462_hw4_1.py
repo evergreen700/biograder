@@ -12,8 +12,8 @@ class bio462_hw4_1(Homework):
         data_files = {
             
             "1.0.0": [
-                "bio462_hw4_ans.txt",
-                "bio462_hw4_hint.txt",
+                "bio462_hw4_1_ans.txt",
+                "bio462_hw4_1_hint.txt",
                 "gene_locations.tsv.gz"
             ],
         }
